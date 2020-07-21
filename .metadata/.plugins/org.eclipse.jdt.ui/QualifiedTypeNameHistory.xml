@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="sun.security.util.Length"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
-    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.virtual.phases.ea.PartialEscapeBlockState.Final"/>
-    <fullyQualifiedTypeName name="javax.imageio.stream.FileCacheImageInputStream"/>
-    <fullyQualifiedTypeName name="org.w3c.dom.css.ElementCSSInlineStyle"/>
-    <fullyQualifiedTypeName name="sun.security.provider.JavaKeyStore.CaseExactJKS"/>
-    <fullyQualifiedTypeName name="jdk.internal.agent.resources.agent"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="javax.sound.midi.VoiceStatus"/>
-    <fullyQualifiedTypeName name="javax.smartcardio.Card"/>
-    <fullyQualifiedTypeName name="FirstTest.MethodPractice"/>
-    <fullyQualifiedTypeName name="FirstTest.TestClass"/>
-    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="jdk.dynalink.StandardNamespace"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.replacements.NewObjectSnippets"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.core.GraalCompilerOptions_OptionDescriptors"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="hw4Q3Constructor01.Student"/>
@@ -54,10 +35,29 @@
     <fullyQualifiedTypeName name="FirstTest.ScannerTestClass"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="exam.Pager"/>
+    <fullyQualifiedTypeName name="exam.Wireless"/>
+    <fullyQualifiedTypeName name="exam.LandPhone"/>
+    <fullyQualifiedTypeName name="exam.satellitePhone"/>
+    <fullyQualifiedTypeName name="exam.Watch"/>
+    <fullyQualifiedTypeName name="exam.DigitalWatch"/>
+    <fullyQualifiedTypeName name="exam.AppleWatchSeries5"/>
+    <fullyQualifiedTypeName name="exam.AppleWatch"/>
+    <fullyQualifiedTypeName name="exam.Phone"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.ir.ReturnNode"/>
+    <fullyQualifiedTypeName name="sun.awt.windows.ThemeReader"/>
+    <fullyQualifiedTypeName name="exam.Iphone4"/>
+    <fullyQualifiedTypeName name="exam.Iphone5"/>
+    <fullyQualifiedTypeName name="exam.Iphone3"/>
+    <fullyQualifiedTypeName name="exam.Iphone1"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="exam.Iphone6"/>
+    <fullyQualifiedTypeName name="exam.ConfiguredIphone6"/>
+    <fullyQualifiedTypeName name="sun.tools.tree.SuperExpression"/>
+    <fullyQualifiedTypeName name="exam.Iphone2"/>
 </qualifiedTypeNameHistroy>
