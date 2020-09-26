@@ -12,9 +12,9 @@ public class HomePage extends BasePage {
 	WebDriver driver;
 	ElementUtil elementUtil;
 
-	By logo = By.xpath("(//img[@class='logo__staplesLogoimg' and @alt='Staples Homepage'])[1]");
+	By logo = By.xpath("//img[@class='bc-logo logo-us']//parent::a//parent::div[@class='table-cell logo hidden-xs hidden-sm hidden-md hidden-lg']");
 
-	@FindBy(xpath = "//input[@id='searchInput']")
+	@FindBy(xpath = "//input[@id='search-field']")
 	public static WebElement searchField;
 
 	public HomePage(WebDriver driver) {
